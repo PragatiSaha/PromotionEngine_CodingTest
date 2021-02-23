@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StockPromotionEngine
 {
-    class PromotionEngine
+    class PromotionEngine : CalculatePromotion
     {
         static void Main(string[] args)
         {
@@ -29,6 +29,8 @@ namespace StockPromotionEngine
                     var exceptionMessage = "Negative number not allowed";
                     throw new ArgumentException(exceptionMessage);
                 }
+                CalculatePromotion calculatePromotion = new CalculatePromotion();
+                calculatePromotion.ActivePromotionCalculation(itemNumber_A, itemNumber_B, itemNumber_C, itemNumber_D);
             }
             catch(Exception ex)
             {

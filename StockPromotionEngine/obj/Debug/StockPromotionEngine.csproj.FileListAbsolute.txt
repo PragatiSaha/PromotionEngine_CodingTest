@@ -8,7 +8,6 @@ C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debu
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\StockPromotionEngine.pdb
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.framework.dll
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.framework.xml
-C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.csprojAssemblyReference.cache
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.csproj.CoreCompileInputs.cache
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.csproj.CopyComplete
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.exe
