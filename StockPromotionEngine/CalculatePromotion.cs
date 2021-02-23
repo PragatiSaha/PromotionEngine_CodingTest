@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace StockPromotionEngine
 {
-    class Program
+    class CalculatePromotion
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

@@ -1,11 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "6MsvDWn0/rYQ1UamoMlB3SMzpvXA3HczIdELoC1JmO8UyijPRiP3y8KiNdA3cp/Derxd7n0I07alU5on3BuDDA==",
+  "dgSpecHash": "rI7yPIE/T03p/wZy/4LQS3zUw/OycYvx4OwuGrSnwazML6wG30nSIb/sMzYwqQgpTmqQDGpKyGnBVs2YZs8xTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shradha\\source\\repos\\StockPromotionEngine\\StockPromotionEngineTest\\StockPromotionEngineTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shradha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Shradha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Shradha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Shradha\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\Shradha\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit3TestAdapter 3.17.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

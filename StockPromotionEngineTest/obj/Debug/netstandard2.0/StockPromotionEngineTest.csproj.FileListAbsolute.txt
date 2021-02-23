@@ -1,0 +1,14 @@
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\nunit.engine.core.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\StockPromotionEngineTest.deps.json
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\StockPromotionEngineTest.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\StockPromotionEngineTest.pdb
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.csprojAssemblyReference.cache
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.AssemblyInfoInputs.cache
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.AssemblyInfo.cs
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.csproj.CoreCompileInputs.cache
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.pdb

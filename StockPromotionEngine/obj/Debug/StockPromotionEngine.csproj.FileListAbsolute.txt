@@ -1,0 +1,15 @@
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.engine.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.engine.api.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.engine.core.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\StockPromotionEngine.exe.config
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\StockPromotionEngine.exe
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\StockPromotionEngine.pdb
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.framework.dll
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\bin\Debug\nunit.framework.xml
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.csprojAssemblyReference.cache
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.csproj.CopyComplete
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.exe
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngine\obj\Debug\StockPromotionEngine.pdb
