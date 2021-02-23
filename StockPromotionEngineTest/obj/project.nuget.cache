@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MsvDWn0/rYQ1UamoMlB3SMzpvXA3HczIdELoC1JmO8UyijPRiP3y8KiNdA3cp/Derxd7n0I07alU5on3BuDDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shradha\\source\\repos\\StockPromotionEngine\\StockPromotionEngineTest\\StockPromotionEngineTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shradha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shradha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
