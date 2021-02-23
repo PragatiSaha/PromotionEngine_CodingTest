@@ -11,3 +11,8 @@ C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.csproj.CoreCompileInputs.cache
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.dll
 C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.pdb
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.csprojAssemblyReference.cache
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\StockPromotionEngine.exe
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\StockPromotionEngine.pdb
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\bin\Debug\netstandard2.0\StockPromotionEngine.exe.config
+C:\Users\Shradha\source\repos\StockPromotionEngine\StockPromotionEngineTest\obj\Debug\netstandard2.0\StockPromotionEngineTest.csproj.CopyComplete

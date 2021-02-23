@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StockPromotionEngine
 {
-    class CalculatePromotion
+    public class CalculatePromotion
     {
         enum StockPrice
         {
@@ -59,12 +59,9 @@ namespace StockPromotionEngine
                     discount_Price = extra_Stock * (int)StockPrice.D;
                     totalOrder_Value += discount_Price;
                 }
-                else
-                {
-                    discount_Price = 0.00;
-                    discount_Price = common_Stock * 30;
-                    totalOrder_Value += discount_Price;
-                }
+                discount_Price = 0.00;
+                discount_Price = common_Stock * 30;
+                totalOrder_Value += discount_Price;
             }
             Console.Write("Total Order Value: {0}", totalOrder_Value);
             Console.ReadKey();

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rI7yPIE/T03p/wZy/4LQS3zUw/OycYvx4OwuGrSnwazML6wG30nSIb/sMzYwqQgpTmqQDGpKyGnBVs2YZs8xTw==",
+  "dgSpecHash": "dli7vukCdLAi33759QoOURyqD3kgAHpgKy73exrJgVByTH+fT9old2op/N4hbAHcaZcm+51ne5398qx3EDOgkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shradha\\source\\repos\\StockPromotionEngine\\StockPromotionEngineTest\\StockPromotionEngineTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shradha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shradha\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
     "C:\\Users\\Shradha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Shradha\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
     "C:\\Users\\Shradha\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
